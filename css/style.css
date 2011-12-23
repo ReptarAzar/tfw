@@ -243,7 +243,7 @@ footer {
 
 /* ==|== Story Page Styles ======================================== */
 
-.story-page h3 {
+h3 {
 	color: #444;
 }
 
@@ -259,11 +259,11 @@ nav h3 {
 }
 
 
-.story-page h4 {
+h4 {
 	color: #999;
 	font-size: 12px;
 }
-.story-page nav p.caption {
+nav p.caption {
 	font-size: 14px;
 	line-height: 18px;
 	margin: 10px 0 0 0;
@@ -317,7 +317,6 @@ p.details {
 	font-size: 10px;
 	padding-left: 5px;
 }
-/*really??*/
 h4, h3, h2, h2 a {
 	font-family: Arial, Helvetica, sans-serif;
 	}
