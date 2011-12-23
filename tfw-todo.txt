@@ -1,0 +1,10 @@
+Spilt the styles from 
+body class on 
+
+-h1 on story page
+
+- student page.. jQuery id's for every student. 
+
+- infinite scroll masonry 
+- 
+
